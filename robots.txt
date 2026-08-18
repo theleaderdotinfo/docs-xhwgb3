@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-z23hh7.bokupaybymobilecasino.co.uk/sitemap.xml
